@@ -46,15 +46,25 @@ Passo 2: <br />
 Depois que voce ter certeza de que as suas modificacoes estao certas e devem ser enviadas para o site host do GitHub, escreva o comano 'git add .' para adicionar tudo que foi modificado <br />
 
 Passo 3: <br />
-Agora que tudo foi adicionado, e necessario escrever o comando 'git commit .' para que as suas mudancas comecem a ser interligadas com o site host do GitHub
+Agora que tudo foi adicionado, e necessario escrever o comando 'git commit .' para que as suas mudancas comecem a ser interligadas com o site host do GitHub <br />
 
 Passo 4: <br />
+Sera aberta uma aba dentro do GitBash pedindo para voce dar um comentario sobre o que foi escrito <br />
+Faca um comentario simples e claro, para que todos dentro do projeto souberem o que voce e mudou <br />
+Depois de fazer isso e necessario apertar em seu teclado as duas teclas simultaneamente 'CTRL' + 'S' e depois 'CTRL' + 'X' <br />
 
+Passo 5: <br />
+Agora que todas as modificacoes ja foram salvas, e necessario efetivamente enviar elas para o host do GitHub <br />
+Para realizar este envio e necessario utilizar o comando 'git push'<br />
+Pronto, agora todas as suas modificacoes foram realizadas e enviadas para o Host <br />
 
+<h2 align='center'> CUIDADO! </h2> <br />
 
+Quando se esta iniciando no GitHub e muito comum realizar Conflitos de Versao, onde voce pode acabar sobreescrevendo todo o trabalho que o seu colega de equipe fez <br >
+Por isso, antes de realizar qualquer push e necessario avisar o atual Diretor de Projetos, caso ele aprove ai voce pode dar prosseguimento <br />
 
 
 
 
 -----------------------------------------------------------------------
-este documento foi escrito por: Rafael Zanfolin
+Este documento foi escrito por: Rafael Zanfolin
