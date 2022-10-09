@@ -1,10 +1,9 @@
 <h1 align="center"> Tutorial Git </h1>
 
 -----------------------------------------------------------------------
-nenhum acento sera utilizado nest documento, isto e proposital
------------------------------------------------------------------------
+<h4 align='center'> nenhum acento sera utilizado nest documento, isto e proposital </h4> <br />
 
-<h2 align='center'> Aqui esta o um breve tutorial do que deve ser feito para baixar e utilizar o git </h2> <br /> 
+<h2 align='center'> Aqui esta um breve tutorial do que deve ser feito para baixar e utilizar o git </h2> <br /> 
 
 Passo 1: <br />
 Entrar no site: https://git-scm.com/downloads <br />
