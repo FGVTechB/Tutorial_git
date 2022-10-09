@@ -2,6 +2,7 @@
 
 -----------------------------------------------------------------------
 <h4 align='center'> nenhum acento sera utilizado nest documento, isto e proposital </h4> <br />
+-----------------------------------------------------------------------
 
 <h2 align='center'> Aqui esta um breve tutorial do que deve ser feito para baixar e utilizar o git </h2> <br /> 
 
